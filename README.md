@@ -48,5 +48,3 @@ Ubuntu
 Windows Server
 AIX
 
-
-参考：https://docs.bk.tencent.com/gse/
