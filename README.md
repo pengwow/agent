@@ -40,11 +40,6 @@ Agent状态查询：管控平台提供接口，查询Agent状态。接口按照�
 
 ## 支持OS
 * 未来目标支持全部操作系统
-CentOS
-Redhat
-Debian
-SUSE
-Ubuntu
-Windows Server
+Linux
+Windows
 AIX
-
